@@ -2,6 +2,7 @@
 layout: post
 title: "My First Blog Post"
 date: 2015-04-19
+header_desc: Here comes the awesome blog
 ---
 
 My first blog post using Jekyll
