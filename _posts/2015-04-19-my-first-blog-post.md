@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "My First Blog Post"
+title: My First Blog Post
 date: 2015-04-19
-header_desc: Here comes the awesome blog
+header_desc: My First Blog Post
 ---
 
 My first blog post using Jekyll
