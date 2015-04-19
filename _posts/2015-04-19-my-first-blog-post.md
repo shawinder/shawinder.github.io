@@ -8,8 +8,6 @@ My first blog post using Jekyll
 
 <pre>
 <code class="language-markup">
-<html>
-<body>Test</body>
-</html>
+<p class="hey">Type some code here</p>
 </code>
 </pre>
