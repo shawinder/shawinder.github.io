@@ -6,7 +6,7 @@ date: 2015-04-19
 
 My first blog post using Jekyll
 
-<pre><code class="language-csharp">
+{% highlight csharp %}
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -112,4 +112,4 @@ namespace String_Stuff
         }
     }
 }
-</code></pre>
+{% endhighlight %}
