@@ -6,4 +6,10 @@ date: 2015-04-19
 
 My first blog post using Jekyll
 
-<pre><code class="xml hljs"><html><body>test</body></html></code></pre>
+<pre>
+<code class="language-markup">
+<html>
+<body>Test</body>
+</html>
+</code>
+</pre>
