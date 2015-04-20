@@ -11,7 +11,7 @@ ASP.NET MVC Bundling - Resolve Image Path
 
 {% highlight csharp linenos %}
 
-bundles.Add(new StyleBundle("~/bundles/WFG/css").Include(
+bundles.Add(new StyleBundle("~/bundles/site1/css").Include(
 "~/Content/Tenant/site1/site.css", new CssRewriteUrlTransform()).Include(
 "~/Content/font-awesome.min.css", new CssRewriteUrlTransform()).Include(
 "~/Content/bootstrap.min.css", new CssRewriteUrlTransform()).Include(
