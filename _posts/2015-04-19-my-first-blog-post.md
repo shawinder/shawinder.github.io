@@ -1,12 +1,9 @@
 ---
 layout: post
-title: My First Blog Post
+title: ASP.NET MVC Bundling - Resolve Image Path
 date: 2015-04-19
-header_desc: My First Blog Post
+header_desc: ASP.NET MVC Bundling - Resolve Image Path
 ---
-
-ASP.NET MVC Bundling - Resolve Image Path
-
 <p><span class="step">1</span> Add <code>CssRewriteUrlTransform()</code> to the <code>StyleBundle</code> and use method chaining for multiple includes. Make sure that the includes without <code>CssRewriteUrlTransform()</code> should come last in the include list.</p>
 
 {% highlight csharp linenos %}
