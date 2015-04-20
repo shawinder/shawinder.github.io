@@ -393,3 +393,17 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+.step { 
+  border-radius: 50%; 
+	-moz-border-radius: 50%; 
+	-webkit-border-radius: 50%; 
+	width: 35px; 
+	height: 35px; 
+	background: #4679BD; 
+	color: #FFF; 
+	float: left;
+	text-align: center;
+	font-size: 24px;
+	padding-top: 5.5px;
+	margin: 5px 15px 0px 0px;
+	font-family: 'Montserrat', Helvetica, sans-serif; }
