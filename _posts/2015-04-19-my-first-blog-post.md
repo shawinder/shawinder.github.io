@@ -5,35 +5,17 @@ date: 2015-04-19
 header_desc: My First Blog Post
 ---
 
-My first blog post using Jekyll
+ASP.NET MVC Bundling - Resolve Image Path
+
+<p><span class="step">1</span> Add <code>CssRewriteUrlTransform()</code> to the <code>StyleBundle</code> and use method chaining for including multiple files. Make sure that the includes without <code>CssRewriteUrlTransform()</code> should come last in the include list.</p>
 
 {% highlight csharp linenos %}
 
-using System;
-
-public class Example
-{
-   private const int MAX_RECURSIVE_CALLS = 1000;
-   static int ctr = 0;
-
-   public static void Main()
-   {
-      Example ex = new Example();
-      ex.Execute();
-      Console.WriteLine("\nThe call counter: {0}", ctr);
-   }
-
-   private void Execute()
-   {
-      ctr++;
-      if (ctr % 50 == 0)
-         Console.WriteLine("Call number {0} to the Execute method", ctr);
-
-      if (ctr <= MAX_RECURSIVE_CALLS)
-         Execute();
-
-      ctr--;
-   }
-}
+bundles.Add(new StyleBundle("~/bundles/WFG/css").Include(
+"~/Content/Tenant/site1/site.css", new CssRewriteUrlTransform()).Include(
+"~/Content/font-awesome.min.css", new CssRewriteUrlTransform()).Include(
+"~/Content/bootstrap.min.css", new CssRewriteUrlTransform()).Include(
+"~/Content/Tenant/site1/sidebar.css",
+"~/Content/Tenant/site1/noise/grain.css"));
 
 {% endhighlight %}
