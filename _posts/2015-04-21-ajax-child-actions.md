@@ -21,7 +21,7 @@ namespace Website.AttributeFilters
 
 {% endhighlight %}
 
-<p><span class="step">2</span> Create a attribute filter <code>AjaxChildActionOnlyAttribute()</code> and override <code>IsValidForRequest</code> method.</p>
+<p><span class="step">2</span> Add the newly created custom attribute to the child action.</p>
 
 {% highlight csharp linenos %}
 
