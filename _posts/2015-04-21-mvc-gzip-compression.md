@@ -43,7 +43,7 @@ namespace Website.AttributeFilters
 
 {% endhighlight %}
 
-<p><span class="step">2</span> Initialize the newly created custom attribute inside <code>FilterConfig.cs</code>.</p>
+<p><span class="step">2</span> Register the newly created custom attribute inside <code>FilterConfig.cs</code>.</p>
 
 {% highlight csharp linenos %}
 
