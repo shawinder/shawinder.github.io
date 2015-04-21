@@ -4,7 +4,7 @@ title: Child Actions - Restrict to Ajax Request Only
 date: 2015-04-21
 header_desc: Child Actions - Restrict to Ajax Request Only
 ---
-<p><span class="step">1</span> Create an attribute filter <code>AjaxChildActionOnlyAttribute()</code> and override <code>IsValidForRequest</code> method.</p>
+<p><span class="step">1</span> Create an attribute filter <code>AjaxChildActionOnlyAttribute</code> and override <code>IsValidForRequest()</code> method.</p>
 
 {% highlight csharp linenos %}
 
