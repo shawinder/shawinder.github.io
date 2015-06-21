@@ -286,7 +286,6 @@ nav a.selected:hover {
 }
 
 .avatar {
-  border-radius: 50%;
   max-width: 50px;
   vertical-align: -9px;
   margin-left: 12px;
