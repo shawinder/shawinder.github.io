@@ -53,8 +53,7 @@ table td, table th {
 /* Common */
 a, a:active {
   text-decoration: none;
-  /*color: #3073b3;*/
-  color:#262626;
+  color: #3073b3;
 }
 
 a:visited {
