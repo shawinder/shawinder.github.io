@@ -53,12 +53,12 @@ table td, table th {
 /* Common */
 a, a:active {
   text-decoration: none;
-  color: #3073b3;
+  color: #494949;
 }
 
 a:visited {
   /*color: #3073b3;*/
-  color: #262626;
+  color: #F47414;
 }
 
 a:hover {
