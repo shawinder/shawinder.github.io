@@ -240,7 +240,8 @@ nav a {
   display: inline-block;
   margin-right: 1.2em;
   padding-bottom: 0.2em;
-  font-weight: normal;
+  font-weight: bold;
+  font-size: 0.9em;
   border-bottom: 3px solid transparent;
 }
 
