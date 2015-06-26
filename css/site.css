@@ -255,7 +255,8 @@ nav a:hover {
 }
 
 nav a.selected {
-  color: black;
+  /*color: black;*/
+  color: #F47414;
 }
 
 nav a.selected:hover {
