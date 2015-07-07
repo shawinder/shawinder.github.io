@@ -152,6 +152,11 @@ header nav {
   }
 }
 
+.container{
+  position: relative;
+  top: 100px;
+}
+
 .separator {
   padding-bottom: 0.8em;
   margin-bottom: 1.4em;
@@ -339,6 +344,8 @@ header {
   padding: 1em 0;
   border-bottom: 1px solid #ddd;
   margin-bottom: 1.5em;
+  position: fixed;
+  width: 100%;
 }
 
 header a {
