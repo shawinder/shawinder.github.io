@@ -157,6 +157,13 @@ header nav {
   top: 100px;
 }
 
+@media(max-width: 400px) {
+  .container {
+    position: relative;
+    top: 150px;
+  }
+}
+
 .separator {
   padding-bottom: 0.8em;
   margin-bottom: 1.4em;
