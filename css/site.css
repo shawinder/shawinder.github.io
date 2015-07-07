@@ -157,7 +157,7 @@ header nav {
   top: 100px;
 }
 
-@media(max-width: 400px) {
+@media(max-width: 667px) {
   .container {
     position: relative;
     top: 150px;
