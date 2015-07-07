@@ -351,8 +351,10 @@ header {
   padding: 1em 0;
   border-bottom: 1px solid #ddd;
   margin-bottom: 1.5em;
+  
   position: fixed;
   width: 100%;
+  top:0px;
 }
 
 header a {
