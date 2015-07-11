@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ASP.NET MVC Bundling
-description : Resolve CSS Image Paths
+description : Resolve CSS Image Paths using <code>CssRewriteUrlTransform()</code>
 date: 2015-04-19
 header_desc: ASP.NET MVC Bundling - Resolve Image Path
 ---
