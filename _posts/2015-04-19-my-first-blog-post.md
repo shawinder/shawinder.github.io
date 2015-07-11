@@ -17,3 +17,5 @@ bundles.Add(new StyleBundle("~/bundles/site1/css").Include(
 "~/Content/Tenant/site1/noise/grain.css"));
 
 {% endhighlight %}
+
+{% include disqus.html %}
