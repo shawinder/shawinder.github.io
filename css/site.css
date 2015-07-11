@@ -249,13 +249,11 @@ nav a:last-child {
 
 nav a:hover {
   text-decoration: none;
-  /*border-bottom: 3px solid #3073b3;*/
-  border-bottom: 3px solid #990000;
+  border-bottom: 3px solid #494949;
 }
 
 nav a.selected {
-  /*color: black;*/
-  color: #990000;
+  color: #494949;
 }
 
 nav a.selected:hover {
