@@ -656,8 +656,9 @@ img {
 	font-size:.7em;
 	background:#F47414;
 	color:white;
-	width:18px;height:18px;
+	width:18px;
+	height:18px;
 	text-align:center;
+	line-height:18px;
 	border-radius:50%;
-	box-shadow:0 0 1px #F47414;
 }
