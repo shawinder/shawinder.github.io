@@ -10,7 +10,10 @@ header_desc: Here comes the awesome blog
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-        <span class="badge" data-badge="{{ post.lang }}"><strong><a href="{{ post.url }}"><u>{{ post.title }}</u></a></strong></span>
+        <strong><a href="{{ post.url }}"><u>{{ post.title }}</u></a></strong>
+        {% if post.lang %}
+        <span class="badge" data-badge="{{ post.lang }}"></span>
+        {% endif %}
         <br />
         <span class="date">{{ post.date | date_to_string }}</span>
         <br />
