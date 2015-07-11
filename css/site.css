@@ -645,6 +645,9 @@ img {
 }
 
 /***********/
+.posts a{
+	color:#F47414;
+}
 .badge {
 	position:relative;
 }
