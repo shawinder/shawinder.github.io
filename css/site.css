@@ -53,12 +53,11 @@ table td, table th {
 /* Common */
 a, a:active {
   text-decoration: none;
-  color: #494949;
+  color: #F47414;
 }
 
 a:visited {
-  /*color: #3073b3;*/
-  color: #494949;
+  color: #F47414;
 }
 
 a:hover {
@@ -251,12 +250,12 @@ nav a:last-child {
 nav a:hover {
   text-decoration: none;
   /*border-bottom: 3px solid #3073b3;*/
-  border-bottom: 3px solid #F47414;
+  border-bottom: 3px solid #494949;
 }
 
 nav a.selected {
   /*color: black;*/
-  color: #F47414;
+  color: #494949;
 }
 
 nav a.selected:hover {
