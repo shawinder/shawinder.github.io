@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ASP.NET MVC Bundling - Resolve Image Path
+title: ASP.NET MVC Bundling
+description : Resolve CSS Image Paths
 date: 2015-04-19
 header_desc: ASP.NET MVC Bundling - Resolve Image Path
 ---
