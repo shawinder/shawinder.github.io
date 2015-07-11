@@ -10,10 +10,7 @@ header_desc: Here comes the awesome blog
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-        <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
-        {% if post.french %}
-          <img src="/images/french.png" alt="French post" class="french-flag" title="This post is in french" />
-        {% endif %}
+        <strong><a href="{{ post.url }}">{{ post.title }}</a></strong> <span class="badge" data-badge="C#"></span>
         <br />
         <span class="date">{{ post.date | date_to_string }}</span>
         <br />
