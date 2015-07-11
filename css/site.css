@@ -651,9 +651,8 @@ img {
 .badge[data-badge]:after {
 	content:attr(data-badge);
 	position:absolute;
-	padding:2px;
 	margin-left:5px;
-	font-size:.7em;
+	font-size:.5em;
 	background:#696969;
 	color:white;
 	width:18px;
