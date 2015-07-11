@@ -250,12 +250,12 @@ nav a:last-child {
 nav a:hover {
   text-decoration: none;
   /*border-bottom: 3px solid #3073b3;*/
-  border-bottom: 3px solid #F47414;
+  border-bottom: 3px solid #990000;
 }
 
 nav a.selected {
   /*color: black;*/
-  color: #F47414;
+  color: #990000;
 }
 
 nav a.selected:hover {
@@ -646,7 +646,7 @@ img {
 
 /***********/
 .posts a{
-	color:#F47414;
+	color:#990000;
 }
 .badge {
 	position:relative;
