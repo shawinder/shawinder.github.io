@@ -254,6 +254,7 @@ nav a:hover {
 
 nav a.selected {
   color: #494949;
+  font-weight:bold;
 }
 
 nav a.selected:hover {
