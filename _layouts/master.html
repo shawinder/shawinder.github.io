@@ -58,6 +58,10 @@
 	
 	{{ content }}
 	
+	{% if page.comments %}
+	  {% include disqus.html %}
+	{% endif %}
+	
 	</div>
 	
 	<div class="separator"></div>
@@ -109,9 +113,6 @@
 	
 	{% include analytics.html %}
 	
-	{% if page.comments %}
-	  {% include disqus.html %}
-	{% endif %}
 </body>
 
 </html>
