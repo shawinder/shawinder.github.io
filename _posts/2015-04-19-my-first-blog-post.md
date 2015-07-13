@@ -3,6 +3,7 @@ layout: post
 lang: C#
 nav_blog: class="selected"
 title: ASP.NET MVC Bundling
+comments: true
 description : Resolve CSS Image Paths using <code>CssRewriteUrlTransform()</code>
 date: 2015-04-19
 header_desc: ASP.NET MVC Bundling - Resolve Image Path
@@ -19,5 +20,3 @@ bundles.Add(new StyleBundle("~/bundles/site1/css").Include(
 "~/Content/Tenant/site1/noise/grain.css"));
 
 {% endhighlight %}
-
-{% include disqus.html %}
