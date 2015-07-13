@@ -170,7 +170,7 @@ header .logo a, header .logo a:hover {
 }
 
 .inner, pre code, .post > * {
-  max-width: 680px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   text-align: left;
