@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MVC Response - GZip Compression
+comments: true
 date: 2015-04-21
 header_desc: Child Actions - GZip Compression
 ---
