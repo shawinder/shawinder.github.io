@@ -106,8 +106,12 @@
 	
 	<!-- Custom Theme JavaScript -->
 	<script src="/js/maplecoding.min.js"></script>
-	   
+	
 	{% include analytics.html %}
+	
+	{% if page.comments %}
+	  {% include disqus.html %}
+	{% endif %}
 </body>
 
 </html>
