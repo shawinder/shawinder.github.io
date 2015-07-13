@@ -58,10 +58,6 @@
 	
 	{{ content }}
 	
-	{% if page.comments %}
-	  {% include disqus.html %}
-	{% endif %}
-	
 	</div>
 	
 	<div class="separator"></div>
@@ -112,6 +108,10 @@
 	<script src="/js/maplecoding.min.js"></script>
 	
 	{% include analytics.html %}
+	
+	{% if page.comments %}
+	  {% include disqus.html %}
+	{% endif %}
 </body>
 
 </html>
