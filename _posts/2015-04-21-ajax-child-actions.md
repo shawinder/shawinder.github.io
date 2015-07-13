@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Child Actions - Restrict to Ajax Request Only
+comments: true
 date: 2015-04-21
 header_desc: Child Actions - Restrict to Ajax Request Only
 ---
