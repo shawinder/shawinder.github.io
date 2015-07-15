@@ -10,14 +10,16 @@ header_desc: Here comes the awesome blog
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-        <a href="{{ post.url }}"><u>{{ post.title }}</u></a>
-        {% if post.lang %}
-        <span class="badge" data-badge="{{ post.lang }}"></span>
-        {% endif %}
-        <br />
-        <span class="date">{{ post.date | date_to_string }}</span>
-        <br />
-        <span class="description">{{ post.description }}</span>
+        <section itemscope itemtype="http://schema.org/NewsArticle">
+          <a href="{{ post.url }}"><u itemprop="headline">{{ post.title }}</u></a>
+          {% if post.lang %}
+          <span class="badge" data-badge="{{ post.lang }}"></span>
+          {% endif %}
+          <br />
+          <span class="date" itemprop="datePublished" content="{{ post.date | date_to_string }}">{{ post.date | date_to_string }}</span>
+          <br />
+          <span class="description" itemprop="description">{{ post.description }}</span>
+        </section>
       </li>
     {% endfor %}
   </ul>
