@@ -55,13 +55,10 @@
     
 	<!-- Main Content -->
 	<div class="container">
-	
-	{{ content }}
-	
-	{% if page.comments %}
-	  {% include disqus.html %}
-	{% endif %}
-	
+		{{ content }}
+		{% if page.comments %}
+		{% include disqus.html %}
+		{% endif %}
 	</div> <!--/.container-->
 	
 	<div class="separator"></div>
