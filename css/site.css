@@ -140,10 +140,12 @@ header nav {
   padding-top: 14px;
 }
 
+/*
 .header-container {
   border-bottom: 1px solid #ddd;
   margin-bottom: 1.5em;
 }
+*/
 
 @media(max-width: 400px) {
   .header-container .contact {
