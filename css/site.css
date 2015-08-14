@@ -679,7 +679,7 @@ img {
 }
 .background 
 {
-    width: 500px;
+    width: 100%;
     overflow: hidden;
     height: 2px;
     background-color: #990000;
