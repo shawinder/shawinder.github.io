@@ -674,14 +674,14 @@ img {
     width: 200px; 
     height: 5px; 
     position: relative;
-    -webkit-animation: gradient 6s linear infinite;
-    animation: gradient 6s linear infinite;
+    -webkit-animation: gradient 9s linear infinite;
+    animation: gradient 9s linear infinite;
 }
 .background 
 {
     width: 100%;
     overflow: hidden;
-    height: 2px;
+    height: 1.5px;
     background-color: #990000;
 }
 @-webkit-keyframes gradient
