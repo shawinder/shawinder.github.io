@@ -679,8 +679,8 @@ img {
     width: 200px; 
     height: 5px; 
     position: relative;
-    -webkit-animation: gradient 9s linear infinite;
-    animation: gradient 9s linear infinite;
+    -webkit-animation: gradient 7s linear infinite;
+    animation: gradient 7s linear infinite;
 }
 .background 
 {
