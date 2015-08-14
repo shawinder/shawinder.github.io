@@ -686,7 +686,7 @@ img {
 {
     width: 100%;
     overflow: hidden;
-    height: 2px;
+    height: 1px;
     background-color: #990000;
 }
 @-webkit-keyframes gradient
