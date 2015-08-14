@@ -146,9 +146,6 @@ header nav {
 }
 
 @media(max-width: 400px) {
-  header {
-    padding: 0 0 1em 0;
-  }
   .header-container .contact {
     display: none;
   }
@@ -218,13 +215,18 @@ article .post {
     margin-left: 0 !important;
     margin-right: 0 !important;
   }
+  
+  header{
+    padding: 0 0 1em 0;
+  }
+  
   header .logo {
     clear: left;
     text-align: center;
     padding-top: 1em;
     float: none;
   }
-
+  
   header .avatar {
     margin-top: 1em;
     max-width: 80px;
