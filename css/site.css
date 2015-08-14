@@ -146,6 +146,9 @@ header nav {
 }
 
 @media(max-width: 400px) {
+  header {
+    padding: 0 0 1em 0;
+  }
   .header-container .contact {
     display: none;
   }
