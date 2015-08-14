@@ -687,10 +687,10 @@ img {
 @-webkit-keyframes gradient
 {
     0%   {left: -200px;}
-    100% {left: 500px;}
+    100% {left: 100%;}
 }
 @keyframes gradient 
 {
     0%   {left: -200px;}
-    100% {left: 500px;}
+    100% {left: 100%;}
 }
