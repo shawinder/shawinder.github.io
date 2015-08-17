@@ -305,8 +305,8 @@ ul.posts .description {
 
 header {
   padding: 1em 0;
-  border-bottom: 1px solid #ddd;
-  margin-bottom: 1.5em;
+  /*border-bottom: 1px solid #ddd;
+  margin-bottom: 1.5em;*/
 }
 
 header a {
