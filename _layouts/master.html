@@ -14,7 +14,7 @@
 	<title>Shawinder Sekhon - {{ page.title }}</title>
 	
 	<!-- Core CSS -->
-	<link href="/css/site.css" rel="stylesheet">
+	<!--<link href="/css/site.css" rel="stylesheet">-->
 	
 	<!-- Custom Fonts -->
 	<link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
@@ -93,6 +93,17 @@
 	    </li>
 	  </ul>
 	</footer>
+	
+	<script>
+      	var cb = function() {
+          var l = document.createElement('link'); l.rel = 'stylesheet';
+          l.href = '/css/site.css';
+          var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+      	};
+      	var raf = requestAnimationFrame || mozRequestAnimationFrame || webkitRequestAnimationFrame || msRequestAnimationFrame;
+      	if (raf) raf(cb);
+      	else window.addEventListener('load', cb);
+    </script>
 	
 	<!-- jQuery -->
 	<script src="/js/jquery.min.js"></script>
