@@ -1,13 +1,11 @@
 ---
 layout: post
-lang: C#
-nav_blog: class="selected"
-title: Use WebImage (System.Web.Helpers)
+title: Child Actions - Restrict to Ajax Request Only
 comments: true
-description : Resize images using <code>WebImage</code>
-date: 2015-04-19
-header_desc: WebImage - Resize image on the fly
+date: 2015-04-21
+header_desc: Child Actions - Restrict to Ajax Request Only
 ---
+<p><span class="step">1</span> Create an attribute filter <code>AjaxChildActionOnlyAttribute</code> and override <code>IsValidForRequest()</code> method.</p>
 
 {% highlight csharp linenos %}
 
