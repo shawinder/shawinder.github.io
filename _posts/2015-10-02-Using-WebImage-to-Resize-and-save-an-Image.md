@@ -35,4 +35,5 @@ public static void ImageResize(string imgPath, int s = 0, int w = 0, int h = 0)
         .Write();
     }
 }
+
 {% endhighlight %}
