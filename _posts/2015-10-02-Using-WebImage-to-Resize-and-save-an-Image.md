@@ -2,7 +2,7 @@
 layout: post
 title: WebImage - Resize image on the fly
 comments: true
-date: 2015-04-21
+date: 2015-10-02
 header_desc: Using WebImage (System.Web.Helpers)
 ---
 <p><span class="step">1</span> Create an attribute filter <code>AjaxChildActionOnlyAttribute</code> and override <code>IsValidForRequest()</code> method.</p>
