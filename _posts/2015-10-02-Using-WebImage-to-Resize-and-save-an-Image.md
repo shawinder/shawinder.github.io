@@ -19,15 +19,18 @@ public static void ImageResize(string imgPath, int s = 0, int w = 0, int h = 0)
     {
         width = s == 0 ? img.Width : s;
         height = s == 0 ? img.Height : s;
-        new WebImage(path).Resize(width, height, preserveAspectRatio: true, preventEnlarge: true)
+        new WebImage(path).Resize(width, height, preserveAspectRatio: true, preventEnlarge: true) // Resizing the image to 100x100 px on the fly... 
+            //.Crop(1, 1) // **ONLY IF using preserveAspectRation : false - Cropping it to remove 1px border at top and left sides
+            //.AddTextWatermark("©UC", fontColor: "red", fontSize: 10, fontStyle: "Bold", opacity: 50, padding: 0)
         .Write();
     }
     else
     {
         width = w == 0 ? img.Width : w;
         height = h == 0 ? img.Height : h;
-        new WebImage(path).Resize(width, height, preserveAspectRatio: false, preventEnlarge: true)
-        .Crop(1, 1)
+        new WebImage(path).Resize(width, height, preserveAspectRatio: false, preventEnlarge: true) // Resizing the image to 100x100 px on the fly... 
+            .Crop(1, 1) // **ONLY IF using preserveAspectRation : false - Cropping it to remove 1px border at top and left sides
+            //.AddTextWatermark("©UC", fontColor: "red", fontSize: 10, fontStyle: "Bold", opacity: 50, padding: 0)
         .Write();
     }
 }
