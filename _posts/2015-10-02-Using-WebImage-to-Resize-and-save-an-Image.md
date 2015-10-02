@@ -6,6 +6,8 @@ date: 2015-10-02
 header_desc: Using WebImage (System.Web.Helpers)
 ---
 
+<p>Resize an image using <code>WebImage (System.Web.Helpers)</code> class.</p>
+
 {% highlight csharp linenos %}
 
 public static void ImageResize(string imgPath, int s = 0, int w = 0, int h = 0)
