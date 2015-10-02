@@ -1,5 +1,7 @@
 ---
 layout: post
+lang: C#
+nav_blog: class="selected"
 title: WebImage - Resize image on the fly
 comments: true
 date: 2015-10-02
