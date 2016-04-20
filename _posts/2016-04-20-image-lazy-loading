@@ -8,6 +8,7 @@ description : Loading images based on scroll position
 date: 2016-04-20
 header_desc: jQuery - Image Lazy Loading
 ---
+<p>Lazy load images based on scroll position</p>
 
 {% highlight jquery linenos %}
 
