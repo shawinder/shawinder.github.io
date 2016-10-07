@@ -83,7 +83,6 @@ header_desc: Xamarin iOS - Keyboard covers text field
     }
     private void ScrollTheView(bool move)
     {
-
         // scroll the view up or down
         UIView.BeginAnimations(string.Empty, System.IntPtr.Zero);
         UIView.SetAnimationDuration(0.1);
