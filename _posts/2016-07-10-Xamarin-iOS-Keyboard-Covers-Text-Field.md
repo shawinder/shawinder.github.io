@@ -28,7 +28,6 @@ public partial class Details : UIViewController
         UIBarButtonItem btnKBDone = new UIBarButtonItem(UIBarButtonSystemItem.Done, KBToolbarButtonDoneHandler);
         UIBarButtonItem[] btnKBItems = new UIBarButtonItem[] { btnKBFlexibleSpace, btnKBDone };
         kbToolbar.SetItems(btnKBItems, true);
-        xComments.InputAccessoryView = kbToolbar;
     
         // Link keyboard to the Text Control
         SampleTextBox.InputAccessoryView = kbToolbar;
