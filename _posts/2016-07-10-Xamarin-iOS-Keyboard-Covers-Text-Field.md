@@ -14,6 +14,10 @@ header_desc: Xamarin iOS - Keyboard covers text field
 public partial class Details : UIViewController
 {
     private UIView activeview; // stores active view information
+    private float scroll_amount = 0.0f;    // amount to scroll 
+    private float bottom = 0.0f;           // bottom point
+    private float offset = 10.0f;          // extra offset
+    private bool moveViewUp = false;           // which direction are we moving
         
     public override void ViewDidLoad()
     {
