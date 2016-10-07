@@ -10,8 +10,7 @@ header_desc: Xamarin iOS - Keyboard covers text field
 ---
 <p></p>
 
-{% highlight csharp linenos %}
-
+```csharp
 public partial class Details : UIViewController
 {
     private UIView activeview; // stores active view information
@@ -109,5 +108,4 @@ public partial class Details : UIViewController
         SampleTextBox.ResignFirstResponder();
     }
 }
-
-{% endhighlight %}
+```
