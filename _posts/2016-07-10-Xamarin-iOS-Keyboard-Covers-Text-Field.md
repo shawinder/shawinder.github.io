@@ -5,7 +5,7 @@ nav_blog: class="selected"
 title: Xamarin iOS Keyboard Covers Text Field
 comments: true
 description : Scrolling content to the current UI control to avoid keyboard covering the control
-date: 2016-07-10
+date: 2016-10-07
 header_desc: Xamarin iOS - Keyboard covers text field
 ---
 <p></p>
