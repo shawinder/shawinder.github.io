@@ -104,6 +104,10 @@ public partial class Details : UIViewController
 
         UIView.CommitAnimations();
     }
+    public void KBToolbarButtonDoneHandler(object sender, EventArgs e)
+    {
+        SampleTextBox.ResignFirstResponder();
+    }
 }
 
 {% endhighlight %}
