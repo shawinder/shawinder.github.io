@@ -9,6 +9,8 @@ date: 2015-04-19
 header_desc: Xamarin iOS - Keyboard covers text field
 ---
 
+<p></p>
+
 {% highlight csharp linenos %}
 
  public partial class Details : UIViewController
