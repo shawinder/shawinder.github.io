@@ -12,8 +12,8 @@ header_desc: Xamarin iOS - Keyboard covers text field
 
 {% highlight csharp linenos %}
 
- public partial class Details : UIViewController
- {
+public partial class Details : UIViewController
+{
     private UIView activeview; // stores active view information
         
     public override void ViewDidLoad()
@@ -105,6 +105,6 @@ header_desc: Xamarin iOS - Keyboard covers text field
 
         UIView.CommitAnimations();
     }
- }
+}
 
 {% endhighlight %}
