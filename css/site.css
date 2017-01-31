@@ -57,7 +57,7 @@ a, a:active {
 }
 
 a:visited {
-  color: #494949;
+  color: #990000;
 }
 
 a:hover {
@@ -223,7 +223,7 @@ nav a:hover {
 }
 
 nav a.selected {
-  color: #990000;
+  color: #494949;
   font-weight:bold;
 }
 
