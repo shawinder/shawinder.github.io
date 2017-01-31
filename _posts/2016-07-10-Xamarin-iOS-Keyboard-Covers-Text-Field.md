@@ -94,13 +94,11 @@ public partial class Details : UIViewController
         if (move)
         {
             frame.Y -= scroll_amount;
-            xSeg.Hidden = true;
         }
         else
         {
             frame.Y += scroll_amount;
             scroll_amount = 0;
-            xSeg.Hidden = false;
         }
 
         View.Frame = frame;
