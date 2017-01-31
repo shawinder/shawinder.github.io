@@ -211,6 +211,9 @@ nav a {
   padding-bottom: 0.2em;
   font-weight: normal;
   border-bottom: 3px solid transparent;
+  
+  text-decoration: none;
+  border-bottom: 2px solid #494949;
 }
 
 nav a:last-child {
