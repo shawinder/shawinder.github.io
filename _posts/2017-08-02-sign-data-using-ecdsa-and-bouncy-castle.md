@@ -9,7 +9,7 @@ date: 2017-08-02
 header_desc: ECDSA signature generation and verification
 ---
 
-# Generate a sample PKCS12(*.p12) certificate.
+## Generate a sample PKCS12(*.p12) certificate.
 
 ```
 // Generate a private key (prime256 name curve is used)
@@ -25,7 +25,7 @@ openssl req -new -key private-key.pem -x509 -nodes -days 365 -out public.cer
 winpty openssl pkcs12 -export -inkey private-key.pem -in public.cer -out private.p12
 ```
 
-# Sign your data with ECDSA using BouncyCastle library
+## Sign your data with ECDSA using BouncyCastle library
 
 ```
 public byte[] SignUsingEcdsa(byte[] bytesData)
@@ -64,7 +64,7 @@ public byte[] SignUsingEcdsa(byte[] bytesData)
 }
 ```
 
-# Verify ECDSA Signature
+## Verify ECDSA Signature
 
 ```
 private void VerifyEcdsaSignature(X509Certificate2 cert, byte[] bytesData, byte[] bytesSignature)
