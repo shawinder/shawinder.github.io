@@ -7,7 +7,7 @@ comments: true
 date: 2015-04-21
 header_desc: Child Actions - GZip Compression
 ---
-1. Create an attribute filter `CompressAttribute` and override `OnActionExecuting()` method.</p>
+1 . Create an attribute filter `CompressAttribute` and override `OnActionExecuting()` method.</p>
 
 ```cs
 namespace Website.AttributeFilters
@@ -44,7 +44,7 @@ namespace Website.AttributeFilters
 }
 ```
 
-2. Register the newly created custom attribute inside `FilterConfig.cs`
+2 . Register the newly created custom attribute inside `FilterConfig.cs`
 
 ```cs
 namespace Website
