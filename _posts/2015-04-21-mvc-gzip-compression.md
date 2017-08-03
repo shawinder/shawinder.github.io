@@ -43,9 +43,10 @@ namespace Website.AttributeFilters
     }
 }
 ```
+
 2. Register the newly created custom attribute inside `FilterConfig.cs`
 
-```
+```cs
 namespace Website
 {
     public class FilterConfig
