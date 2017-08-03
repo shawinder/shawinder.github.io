@@ -10,7 +10,7 @@ header_desc: jQuery - Image Lazy Loading
 ---
 <p>Lazy load images based on scroll position</p>
 
-{% highlight jquery linenos %}
+```html
 
 <!DOCTYPE html>
 <html>
@@ -152,4 +152,4 @@ header_desc: jQuery - Image Lazy Loading
 
 }(jQuery));
 
-{% endhighlight %}
+```
