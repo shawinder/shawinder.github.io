@@ -85,7 +85,7 @@ private void VerifyEcdsaSignature(X509Certificate2 cert, byte[] bytesData, byte[
 }
 ```
 
-## Signature transclude method to support JWT ES256
+## Signature transclude method to support JWT ES256 (requires 64 bytes signature)
 
 ```cs
 /**
