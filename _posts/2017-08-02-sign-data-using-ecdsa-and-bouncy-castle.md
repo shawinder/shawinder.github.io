@@ -84,3 +84,72 @@ private void VerifyEcdsaSignature(X509Certificate2 cert, byte[] bytesData, byte[
         System.Console.WriteLine("Not Verified Signature");
 }
 ```
+
+## Signature transclude method to support JWT ES256
+
+```
+/**
+* Transcodes the JCA ASN.1/DER-encoded signature into the concatenated
+* R + S format expected by ECDSA JWS.
+*
+* @param derSignature The ASN1./DER-encoded. Must not be {@code null}.
+* @param outputLength The expected length of the ECDSA JWS signature.
+*
+* @return The ECDSA JWS encoded signature.
+*
+* @throws JwtException If the ASN.1/DER signature format is invalid.
+*/
+public static byte[] transcodeSignatureToConcat(byte[] derSignature, int outputLength)
+{
+    if (derSignature.Length < 8 || derSignature[0] != 48)
+    {
+        throw new Exception("Invalid ECDSA signature format");
+    }
+
+    int offset;
+    if (derSignature[1] > 0)
+    {
+        offset = 2;
+    }
+    else if (derSignature[1] == (byte)0x81)
+    {
+        offset = 3;
+    }
+    else
+    {
+        throw new Exception("Invalid ECDSA signature format");
+    }
+
+    byte rLength = derSignature[offset + 1];
+
+    int i = rLength;
+    while ((i > 0)
+            && (derSignature[(offset + 2 + rLength) - i] == 0))
+        i--;
+
+    byte sLength = derSignature[offset + 2 + rLength + 1];
+
+    int j = sLength;
+    while ((j > 0)
+            && (derSignature[(offset + 2 + rLength + 2 + sLength) - j] == 0))
+        j--;
+
+    int rawLen = Math.Max(i, j);
+    rawLen = Math.Max(rawLen, outputLength / 2);
+
+    if ((derSignature[offset - 1] & 0xff) != derSignature.Length - offset
+            || (derSignature[offset - 1] & 0xff) != 2 + rLength + 2 + sLength
+            || derSignature[offset] != 2
+            || derSignature[offset + 2 + rLength] != 2)
+    {
+        throw new Exception("Invalid ECDSA signature format");
+    }
+
+    byte[] concatSignature = new byte[2 * rawLen];
+
+    Array.Copy(derSignature, (offset + 2 + rLength) - i, concatSignature, rawLen - i, i);
+    Array.Copy(derSignature, (offset + 2 + rLength + 2 + sLength) - j, concatSignature, 2 * rawLen - j, j);
+
+    return concatSignature;
+}
+```
