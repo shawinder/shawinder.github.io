@@ -10,8 +10,7 @@ header_desc: Using WebImage (System.Web.Helpers)
 
 <p>Resize an image using <code>WebImage (System.Web.Helpers)</code> class.</p>
 
-{% highlight csharp linenos %}
-
+```cs
 public static void ImageResize(string imgPath, int s = 0, int w = 0, int h = 0)
 {
     var path = System.IO.Path.IsPathRooted(imgPath) ? imgPath : HttpContext.Current.Server.MapPath(imgPath);
@@ -36,5 +35,4 @@ public static void ImageResize(string imgPath, int s = 0, int w = 0, int h = 0)
         .Write();
     }
 }
-
-{% endhighlight %}
+```
