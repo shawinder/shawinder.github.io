@@ -7,7 +7,7 @@ comments: true
 date: 2015-04-21
 header_desc: Child Actions - Restrict to Ajax Request Only
 ---
-1. Create an attribute filter `AjaxChildActionOnlyAttribute` and override `IsValidForRequest()` method.
+1 . Create an attribute filter `AjaxChildActionOnlyAttribute` and override `IsValidForRequest()` method.
 
 ```cs
 namespace Website.AttributeFilters
@@ -22,7 +22,7 @@ namespace Website.AttributeFilters
 }
 ```
 
-2. Add the newly created custom attribute to the child action.
+2 . Add the newly created custom attribute to the child action.
 
 ```cs
 [AttributeFilters.AjaxChildActionOnly]
