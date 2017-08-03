@@ -7,10 +7,9 @@ comments: true
 date: 2015-04-21
 header_desc: Child Actions - GZip Compression
 ---
-<p><span class="step">1</span> Create an attribute filter <code>CompressAttribute</code> and override <code>OnActionExecuting()</code> method.</p>
+1. Create an attribute filter `CompressAttribute` and override `OnActionExecuting()` method.</p>
 
-{% highlight csharp linenos %}
-
+```cs
 namespace Website.AttributeFilters
 {
     public class CompressAttribute : ActionFilterAttribute
@@ -43,13 +42,10 @@ namespace Website.AttributeFilters
         }
     }
 }
+```
+2. Register the newly created custom attribute inside `FilterConfig.cs`
 
-{% endhighlight %}
-
-<p><span class="step">2</span> Register the newly created custom attribute inside <code>FilterConfig.cs</code>.</p>
-
-{% highlight csharp linenos %}
-
+```
 namespace Website
 {
     public class FilterConfig
@@ -60,5 +56,4 @@ namespace Website
         }
     }
 }
-
-{% endhighlight %}
+```
