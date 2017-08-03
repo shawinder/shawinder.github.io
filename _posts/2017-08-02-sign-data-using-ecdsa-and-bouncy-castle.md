@@ -11,7 +11,7 @@ header_desc: ECDSA signature generation and verification
 
 ## Generate a sample PKCS12(*.p12) certificate.
 
-```
+```cs
 // Generate a private key (prime256 name curve is used)
 openssl ecparam -name prime256v1 -genkey > private-key.pem
 
@@ -27,7 +27,7 @@ winpty openssl pkcs12 -export -inkey private-key.pem -in public.cer -out private
 
 ## Sign your data with ECDSA using BouncyCastle library
 
-```
+```cs
 public byte[] SignUsingEcdsa(byte[] bytesData)
 {
     // Read the p12 certificate, exportable flag is activated to allow certificate.Export() on line 25
@@ -66,7 +66,7 @@ public byte[] SignUsingEcdsa(byte[] bytesData)
 
 ## Verify ECDSA Signature
 
-```
+```cs
 private void VerifyEcdsaSignature(X509Certificate2 cert, byte[] bytesData, byte[] bytesSignature)
 {
     var bcCert = DotNetUtilities.FromX509Certificate(cert);
@@ -87,7 +87,7 @@ private void VerifyEcdsaSignature(X509Certificate2 cert, byte[] bytesData, byte[
 
 ## Signature transclude method to support JWT ES256
 
-```
+```cs
 /**
 * Transcodes the JCA ASN.1/DER-encoded signature into the concatenated
 * R + S format expected by ECDSA JWS.
