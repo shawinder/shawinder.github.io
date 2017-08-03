@@ -2,7 +2,7 @@
 layout: post
 lang: C#
 nav_blog: class="selected"
-title: ECDSA signature generation and verification
+title: ECDSA signature generation and verification using bouncy castle
 comments: true
 description : Generate and verify ECDSA signature using bouncy castle
 date: 2017-08-02
