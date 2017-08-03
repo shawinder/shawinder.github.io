@@ -16,7 +16,7 @@ ServicePointManager.SecurityProtocol = (SecurityProtocolType)768 | (SecurityProt
 ```
 
 ## Complete code will look something like this:
-```
+```cs
 ServicePointManager.SecurityProtocol = (SecurityProtocolType)768 | (SecurityProtocolType)3072;
 using (var httpClient = new HttpClient())
 {
