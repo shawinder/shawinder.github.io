@@ -9,7 +9,7 @@ date: 2017-08-16
 header_desc: Wix check if component is already installed
 ---
 
-## Install - Write component install flag for each individual component in the `registry`:
+## `Install` - Write component install flag for each individual component in the `registry`:
 
 ```xml
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
@@ -24,7 +24,7 @@ header_desc: Wix check if component is already installed
 </Wix>
 ```
 
-## Upgread - Read existing `registry` values and set local `Wix properties`
+## `Upgrade` - Read existing `registry` values and set local `Wix properties`
 
 ```xml
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
