@@ -1,7 +1,6 @@
 ---
 layout: post
 lang: C#
-nav_blog: class="selected"
 title: Xamarin iOS Keyboard Covers Text Field
 comments: true
 description : Scrolling content to the current UI control to avoid keyboard covering the control
