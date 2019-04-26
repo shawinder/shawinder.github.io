@@ -1,7 +1,6 @@
 ---
 layout: post
 lang: jQuery
-nav_blog: class="selected"
 title: Image Lazy Loading
 comments: true
 description : Loading images based on scroll position
