@@ -1,7 +1,6 @@
 ---
 layout: post
 lang: C#
-nav_blog: class="selected"
 title: MVC Response - GZip Compression
 comments: true
 date: 2015-04-21
