@@ -1,7 +1,6 @@
 ---
 layout: post
 lang: C#
-nav_blog: class="selected"
 title: Child Actions - Restrict to Ajax Request Only
 comments: true
 date: 2015-04-21
