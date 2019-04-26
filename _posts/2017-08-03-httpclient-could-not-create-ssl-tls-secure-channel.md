@@ -1,7 +1,6 @@
 ---
 layout: post
 lang: C#
-nav_blog: class="selected"
 title: Httpclient could not create ssl/tls secure channel
 comments: true
 description : Httpclient could not create ssl/tls secure channel
