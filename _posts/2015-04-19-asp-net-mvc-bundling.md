@@ -1,7 +1,6 @@
 ---
 layout: post
 lang: C#
-nav_blog: class="selected"
 title: ASP.NET MVC Bundling
 comments: true
 description : Resolve CSS Image Paths using <code>CssRewriteUrlTransform()</code>
