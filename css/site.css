@@ -236,7 +236,7 @@ nav a.selected:hover {
 
 .avatar {
   max-width: 50px;
-  vertical-align: -9px;
+  vertical-align: 0;
 }
 
 .links {
