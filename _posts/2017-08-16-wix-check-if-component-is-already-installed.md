@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: C#
+lang: WiX
 title: Wix check if component is already installed
 comments: true
 description : Wix check if component is already installed
