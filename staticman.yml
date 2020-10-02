@@ -77,4 +77,8 @@ comments:
     email: md5
 
   reCaptcha:
-    enabled: false
+    enabled: true
+    # the siteKey is used as-is (no encryption)
+    siteKey: 6LdQA9MZAAAAADz1HZslJMDLD3g5Fius5IhMR55y
+    # the secret is the encrypted blob you got back from the encrypt call
+    secret: E2v8KopAnkhhj3yYsg2sk+cGTOvQ/hDZXtxg0use2wMXMIEnjuoTzgih7sSoZYeWz1X8zpS7YNLh7wDhmIePhpuioCpd+Yuo6FmMsEf5l4SdWbKz/urQyd8nB0KGq40rAFrGREQrQQeFqd2yymTSC52/LI2sfCpNavn8T6hTzOEkcNNldjMdgYWwXgcwZFu6C24AHK1qxRc8n7wJUJ4Pj5HF7vdh+WmXt/XtaENGArOirldoLPlQKO8wunB0bawJFNC2oT/lYpeoz7QBbgHl8QbTihni8zGZgMx8FxlyKCV+D+5W2CRsz1B0zSyAh6/KJcfgMPnvPS5BRhdUL25G6CYH5V7jRxSYvb4aaPinYY7SSMLbswJ9DVmb2y+O7dArPr+ZND29mPwClMlLYzH6nDtPJYNUzI6v7p5ilfhaUsybsP7vLQAAf444UHrrG4DzI8RU8Z053eQaObSoaxscEaBAzMmRXGSDYZYl8NNc4s18M03N/vuWBJfNH+IMtekYu1wjSaRLccDksJ1uC6rfKh+LRjVEFWtYIq/MHUmYJkD4e2y3zwYu9QktXC4E1vOU79iXFR6R+6rk/I9dGuZz4I2KuUSvUQE4qtAdsVPxJAsYXWt3dMlIBA2m/fRgmDXIT/0edR5FztQJfZLQrTxD8HPCFydPKqYZfkyO+tV/Q4E=
