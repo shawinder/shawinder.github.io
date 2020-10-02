@@ -14,3 +14,7 @@ header_title: blog
     {{ content }}
   </div>
 </section>
+
+{% if page.comments == true %}
+  {% include comments.html %}
+{% endif %}
