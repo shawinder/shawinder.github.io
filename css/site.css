@@ -662,14 +662,13 @@ img {
 	content:attr(data-badge);
 	position:absolute;
 	margin-left:5px;
-	font-size:.5em;
+	font-size:.7em;
 	background:#333;
 	color:white;
-	width:18px;
-	height:18px;
 	text-align:center;
-	line-height:18px;
+	line-height:10px;
 	border-radius:50%;
+	padding:5px;
 }
 
 /*Moving Divider*/
