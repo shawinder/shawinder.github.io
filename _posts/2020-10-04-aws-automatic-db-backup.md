@@ -48,7 +48,7 @@ header_desc: AWS Automated DB Backup
         "C:\Program Files\Amazon\AWSCLIV2\aws" s3api put-object --bucket AWS_BUCKET_NAME --key BACKUP_FILE_NAME.bak --body C:\BackupFolder\BACKUP_FILE_NAME.bak
         ```
 
-5. MySQL Backup
+5. **MySQL** Backup
     * Configure AWS Credentials
         ```
         aws configure
