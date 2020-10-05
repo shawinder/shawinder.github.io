@@ -47,6 +47,7 @@ header_desc: AWS Automated DB Backup
         "C:\Program Files\Amazon\AWSCLIV2\aws" configure set default.region ca-central-1
         "C:\Program Files\Amazon\AWSCLIV2\aws" s3api put-object --bucket AWS_BUCKET_NAME --key BACKUP_FILE_NAME.bak --body C:\BackupFolder\BACKUP_FILE_NAME.bak
         ```
+    * Use `SQL Server Agent > Jobs` to automate the backup.
 
 5. **MySQL** Backup
     * Configure AWS Credentials
@@ -65,3 +66,4 @@ header_desc: AWS Automated DB Backup
         ```
         aws s3api put-object --bucket AWS_BUCKET_NAME --key "BACKUP_FILE.sql.gz" --body "BACKUP_DIR_PATH/BACKUP_FILE.sql.gz"
         ```
+    * Use `Crontab` to automate the backup
