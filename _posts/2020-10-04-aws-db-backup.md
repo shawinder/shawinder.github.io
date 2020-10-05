@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: SQL
-title: AWS Database Backup
+title: AWS Automated Database Backup
 comments: true
 description : AWS Automated MSSQL and MySQL database backup
 date: 2020-10-04
