@@ -1,3 +1,12 @@
+---
+layout: post
+lang: SSH
+title: Localhost Online Access
+comments: true
+description : Access localhost from Everywhere
+date: 2020-10-14
+header_desc: Access localhost from Everywhere
+---
 1. Using Domain manager, create a domain/subdomain e.g demo.abc.com and point the A record to your `VPS`
 
 2. Using VPS, setup the following configuration for Nginx proxy that will direct the trafic to a specific port e.g 5000:
