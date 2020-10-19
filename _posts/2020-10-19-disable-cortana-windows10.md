@@ -10,7 +10,9 @@ header_desc: Disable Cortana for Windows 10 using a Powershell script
 1. Open `Powershell` as an Administrator.
 
 2. Run following command to temporarily disable the `digital signature` execution policy.
-`Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
+```
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
+```
 
 3. Create a new powershell script `script-name.ps1` and add following content:
 ```
