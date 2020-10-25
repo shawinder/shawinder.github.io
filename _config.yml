@@ -3,7 +3,7 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
 # staticman (comments) configuration
-staticman_url: https://shawinder-github-staticman.herokuapp.com/v2/entry/shawinder/shawinder.github.io/master/comments
+staticman_url: http://comments.shawinder.com/v2/entry/shawinder/shawinder.github.io/master/comments
 
 reCaptcha:
     # the siteKey is used as-is (no encryption)
