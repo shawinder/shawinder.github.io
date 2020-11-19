@@ -3,10 +3,11 @@ layout: post
 lang: React
 title: React Function Component ForwardRef
 comments: true
-description : Ant Design : Warning: Function components cannot be given refs. Attempts to access this ref will fail. Did you mean to use React.forwardRef()?
-date: 2020-11-19
-header_desc: Warning: Function components cannot be given refs. Attempts to access this ref will fail. Did you mean to use React.forwardRef()?
+description : Ant Design Function components cannot be given refs. Attempts to access this ref will fail. Did you mean to use React.forwardRef()?
+date: 2015-04-19
+header_desc: Function components cannot be given refs. Attempts to access this ref will fail
 ---
+
 - I have created a following `ant-design` InputNuber Wrapper to add a `suffix`.But React was showing `Warning: Function components cannot be given refs. Attempts to access this ref will fail. Did you mean to use React.forwardRef()?`
 
 ```
