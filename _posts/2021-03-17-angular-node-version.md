@@ -8,7 +8,7 @@ date: 2021-03-17
 header_desc: Angular switch node versions | Windows
 ---
 
-- Download and install `nvm` from https://github.com/coreybutler/nvm-windows/releases
+- Download and install `nvm` from <https://github.com/coreybutler/nvm-windows/releases>
 
 - Download and set a specific node version e.g `10.24.0` using following commands:
 ```
