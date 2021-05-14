@@ -10,7 +10,7 @@ header_desc: Visual Studio AWS Serverless.Template CORS
 
 - Simply add the new `Globals` section as below. You can change `*` to appropriate request Url. 
 
-```
+```shell
 {
   "AWSTemplateFormatVersion" : "2010-09-09",
   "Transform" : "AWS::Serverless-2016-10-31",
@@ -18,8 +18,8 @@ header_desc: Visual Studio AWS Serverless.Template CORS
   "Globals" : {
     "Api" : {
       "Cors" : {
-        "AllowMethods": "'*'"
-        "AllowHeaders": "'*'"
+        "AllowMethods": "'*'",
+        "AllowHeaders": "'*'",
         "AllowOrigin": "'*'"
       }
     }
