@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://www.shawinder.com/</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/resume/</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2021/05/14/visual-studio-serverless-cors</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2021/03/17/angular-node-version</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2020/11/19/ant-design-react-function-component-forward-ref</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2020/10/19/disable-cortana-windows10</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2020/10/14/localhost-online-access</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2020/10/04/aws-automatic-db-backup</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2017/08/16/wix-check-if-component-is-already-installed</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2017/08/03/httpclient-could-not-create-ssl-tls-secure-channel</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2017/08/02/sign-data-using-ecdsa-and-bouncy-castle</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2016/10/07/Xamarin-iOS-Keyboard-Covers-Text-Field</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2016/04/20/image-lazy-loading</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2015/10/02/Using-WebImage-to-Resize-and-save-an-Image</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2015/04/21/mvc-gzip-compression</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2015/04/21/ajax-child-actions</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.shawinder.com/blog/2015/04/19/asp-net-mvc-bundling</loc>
+  <lastmod>2022-06-13T23:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
