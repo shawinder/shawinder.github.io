@@ -75,7 +75,7 @@ private void VerifyEcdsaSignature(X509Certificate2 cert, byte[] bytesData, byte[
     signer.Init(false, pubKey);
     signer.BlockUpdate(bytesData, 0, bytesData.Length);
 
-    //Console.WriteLine(Asn1Dump.DumpAsString(Asn1Object.FromByteArray(signature)));
+    Console.WriteLine(Asn1Dump.DumpAsString(Asn1Object.FromByteArray(signature)));
 
     if (signer.VerifySignature(bytesSignature))
         System.Console.WriteLine("Verified Signature");
