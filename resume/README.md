@@ -11,7 +11,7 @@ Highly skilled and experienced IT professional having 15+ years of experience in
 
 Specialties: ReactJS, Python, Django, .NET Core, Xamarin, Angular JS, ASP.NET, C#, MVC5, WebAPI2, ASP.NET Identity, OWIN Middleware, Bootstrap 3, Entity Framework 6, oAuth Login Integration (Facebook, Google, Twitter), AspDotNetStorefront, XSLT, jQuery Mobile, Composite C1, MS SQL, Photoshop, PHP, Wordpress, SQL, MySQL, HTML, CSS, REST, MVC
 
-## 👩🏼‍💻 Experience
+## 👨🏻‍💻 Experience
 
 **Solutions Architect** @ [Lone Wolf Technologies](https://www.lwolf.com/){:target="_blank"} _(Mar 2022 - Present)_ <br>
 |<br>
@@ -211,7 +211,7 @@ Labeling, Manufacturing and Warehouse Management solutions
 **Hindi**: Native
 <br>
 
-## 👩🏼‍🎓 Education
+## 👨🏻‍🎓 Education
 
 **Masters of Computer Applications** focused on Programming, Databases, Architecture<br>
 [Punjabi University](http://www.punjabiuniversity.ac.in/){:target="_blank"} - Patiala, India _(2002 - 2005)_
