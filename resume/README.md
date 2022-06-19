@@ -17,8 +17,8 @@ Specialties: ReactJS, Python, Django, .NET Core, Xamarin, Angular JS, ASP.NET, C
 |<br>
 **Sr. Software Engineer** @ [Lone Wolf Technologies](https://www.lwolf.com/){:target="_blank"} _(June 2021 - Mar 2022)_ <br>
 Marketing, CRM, Transactions - Together At Last <br>
- - Architecting and building a message bus consumer service using Azure Cloud and Kubernetes
- - Architecting and automated DB migration tool using Azure functions and Kubernetes containers.
+ - Architect and build a message bus consumer service using Azure Cloud and Kubernetes
+ - Architect and automate DB migration tool using Azure functions and Kubernetes containers.
  - Working on complex frontend UI using ReactJS and using an internal UI component library.
  - Managing a Dev team and Creating/Planning/Assigning tasks using Jira and bitbucket.
  - Using Azure DevOps for build/deployment of ReactJS and .NET Core base projects.
@@ -37,22 +37,22 @@ Helping businesses thrive by providing End-to-End solutions
   - Samsung SOC based solution implementation.
   - Upgrading ColdFusion based legacy website UI with ReactJS to work with existing backend.
   - Enhancing Auto parts PHP/MySQL based CRM system by adding new modules for inventory management.
-  - Cstom PHP API solutions for integration with 3rd party .NET WCF based WMS system.
+  - Custom PHP API solutions for integration with 3rd party .NET WCF based WMS system.
   - Fully dynamic Tax system for integration with the orders, invoices and user account reporting system.
   - Building online return system with real time return status checks.
   - Proposing and building a new search module to find desired auto parts on the fly.
   - Linux server administration, Apache, Cron jobs, SSL certificates and enhancing e-commerce components.
   - Developing a Python-based Price-Scrapper for building API feeds for real-time pricing information.
   - Developing a touchscreen-based Product Catalog.
-  - Architecting a Commercial Real Estate Investors/Joint Venture partners investment and Portfolio Analysis and Reporting application.
-  - .NET Core based RESTful microservices using docker containers.
+  - Architect a Commercial Real Estate Investors/Joint Venture partners investment and Portfolio Analysis and Reporting application.
+  - .NET Core based RESTful Microservices using docker containers.
   - Multi-site container based cloud hosting setup using Nginx proxy, NodeJS, PM2, AWS Lambda.
   - Customizing .NET identity server using entity framework and C# for token based Authentication and Authorization.
   - Managing/Handling offshore developers to deliver client projects under budget and on time.
   - Ref. Tiger Auto, Rentsline, UR-Channel, RabbitHole, IconDigital
 
 **Senior Software Engineer** @ [Care1 Telemedicine](https://care1.ca/){:target="_blank"} _(July 2019 - June 2021)_ <br>
-AI-powered telemedicine platform
+AI-powered Telemedicine Platform
   - Leading the core product for development Healthcare/Eyecare solutions.
   - Building a react based login system/workflow to authenticate against existing django legacy application.
   - Building complex React based UI scaffolding from scratch.
@@ -79,7 +79,7 @@ WebRTC - Real Time Communication
 **Senior Software Developer** @ [DealerPILOT HR](https://www.dealerpilothr.com/){:target="_blank"} _(June 2016 - Feb 2017)_ <br>
 Auto Industry HR and Safety solutions
   - Building native iOS/Android apps using Xamarin Api.
-  - Designing/Architecting a system for true multi-tenant support using C#, Microservices, MVC and .NET Core.
+  - Design/Architect a system for true multi-tenant support using C#, Microservices, MVC and .NET Core.
   - Extending .NET Core Identity to support Multi tenant architecture. 
   - Implementing token based security using custom JWT token generation with .NET Core middleware.
   - .NET Core localization/globalization for controllers, views and modules, Entity Framework Core code-first migrations.
@@ -219,7 +219,7 @@ Labeling, Manufacturing and Warehouse Management solutions
 **Post Graduation Certification** focused on E. Commerce<br>
 [Punjabi University](http://www.punjabiuniversity.ac.in/){:target="_blank"} - Patiala, India _(2001 - 2002)_
 
-**Bachelor of Science** in Mathematics, Physics and Chemostry<br>
+**Bachelor of Science** in Mathematics, Physics and Chemistry<br>
 [Punjabi University](http://www.punjabiuniversity.ac.in/){:target="_blank"} - Patiala, India _(1998 - 2001)_
 
 **Advanced Certification in Programming and Networks** for Journalism and New Media<br>
