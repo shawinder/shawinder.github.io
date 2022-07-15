@@ -222,5 +222,5 @@ Labeling, Manufacturing and Warehouse Management solutions
 **Bachelor of Science** in Mathematics, Physics and Chemistry<br>
 [Punjabi University](http://www.punjabiuniversity.ac.in/){:target="_blank"} - Patiala, India _(1998 - 2001)_
 
-**Advanced Certification in Programming and Networks** for Journalism and New Media<br>
+**Advanced Certification in Programming and Networks** focused on Web/Windows Programming, Databases, Network<br>
 [NIIT](https://www.niit.com/){:target="_blank"} - Pune, India _(1998 - 2000)_
