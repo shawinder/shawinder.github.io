@@ -16,25 +16,28 @@ Specialties: ReactJS, Python, Django, .NET Core, Xamarin, Angular JS, ASP.NET, C
 **Solutions Architect** @ [Lone Wolf Technologies](https://www.lwolf.com/){:target="_blank"} _(Mar 2022 - Present)_ <br>
 |<br>
 **Sr. Software Engineer** @ [Lone Wolf Technologies](https://www.lwolf.com/){:target="_blank"} _(June 2021 - Mar 2022)_ <br>
-Marketing, CRM, Transactions - Together At Last <br>
+_Marketing, CRM, Transactions - Together At Last_ <br>
+ - Leading/Managing internal development team working on the core business solutions.
+ - Setting up build/deploy pipelines using Azure Devops for ReactJS/.NET Core
+ - Setting up Azure kubernetes dev/stg environment using Helm charts.
  - Architect and build a message bus consumer service using Azure Cloud and Kubernetes
- - Architect and automate DB migration tool using Azure functions and Kubernetes containers.
- - Working on complex frontend UI using ReactJS and using an internal UI component library.
- - Managing a Dev team and Creating/Planning/Assigning tasks using Jira and bitbucket.
+ - Architect and automate DB migration tool using Azure storage, Azure functions and Kubernetes containers.
+ - Fixing penetration testing issues reported by Qualys WAS Scan.
+ - Working on complex frontend UI using ReactJS and using an internal UI/UX component library.
  - Using Azure DevOps for build/deployment of ReactJS and .NET Core base projects.
  - Migrating existing modules/libraries from .NET to .NET Core 2.0, to be consumed by both .NET and .NET core based projects.
  - Building a scaffolding for a React + Svelte project to be utilized by multiple teams contributing to the same codebase.
- - Helping teams to meet deadlines and get projects done on time and under budget.
+ - Helping various teams to meet deadlines and get projects done on time and under budget.
 
 **Freelance | IT Developer | Consultant** @ Multiple Companies _(Aug 2018 - Present)_ <br>
-Helping businesses thrive by providing End-to-End solutions
+_Helping businesses thrive by providing End-to-End solutions_
   - AWS lambda based ordering system with Angular front-end and .NET Core back-end API.
   - Automated S3 backups for both Windows and Linux Databases.
   - Moneris/Converge API Integration for manual/automatic credit card charges and customer profiles.
   - Linux server administration (Ubuntu), Apache, Cron jobs, SSL certificates
   - Helped clients to manage AWS costs by downgrading/shifting the AWS infrastructure.
   - Electron based application to be run on digital signage solutions/devices.
-  - Samsung SOC based solution implementation.
+  - Implementing SOC based solutions for Samsung Tizen platform.
   - Upgrading ColdFusion based legacy website UI with ReactJS to work with existing backend.
   - Enhancing Auto parts PHP/MySQL based CRM system by adding new modules for inventory management.
   - Custom PHP API solutions for integration with 3rd party .NET WCF based WMS system.
@@ -52,7 +55,7 @@ Helping businesses thrive by providing End-to-End solutions
   - Ref. Tiger Auto, Rentsline, UR-Channel, RabbitHole, IconDigital
 
 **Senior Software Engineer** @ [Care1 Telemedicine](https://care1.ca/){:target="_blank"} _(July 2019 - June 2021)_ <br>
-AI-powered Telemedicine Platform
+_AI-powered Telemedicine Platform_
   - Leading the core product for development Healthcare/Eyecare solutions.
   - Building a react based login system/workflow to authenticate against existing django legacy application.
   - Building complex React based UI scaffolding from scratch.
@@ -63,7 +66,7 @@ AI-powered Telemedicine Platform
   - Using various Amazon/AWS technologies e.g EC2, SES, S3 etc.
 
 **Senior Software Developer** @ [Liveswitch | Frozen Mountain Software](https://www.liveswitch.io/){:target="_blank"} _(Feb 2017 - Aug 2018)_ <br>
-WebRTC - Real Time Communication
+_WebRTC - Real Time Communication_
   - Developing new product features and handling customer tickets/issues by providing timely estimates for products/solutions using Zendesk and Jira for task management.
   - Using Git and Scrum for project management and merging/branching for code structuring and organization and taking part in code reviews.
   - ActiveX customization to add WebRTC audio/video support using C#.
@@ -77,7 +80,7 @@ WebRTC - Real Time Communication
   - Building fully customized windows installer using Wix Toolset and wix CustomActions.
 
 **Senior Software Developer** @ [DealerPILOT HR](https://www.dealerpilothr.com/){:target="_blank"} _(June 2016 - Feb 2017)_ <br>
-Auto Industry HR and Safety solutions
+_Auto Industry HR and Safety solutions_
   - Building native iOS/Android apps using Xamarin Api.
   - Design/Architect a system for true multi-tenant support using C#, Microservices, MVC and .NET Core.
   - Extending .NET Core Identity to support Multi tenant architecture. 
@@ -89,7 +92,7 @@ Auto Industry HR and Safety solutions
   - Server logging using "Serilog" module for .NET Core.
 
 **Senior Web Developer** @ [UR-Channel Broadcasting](https://ur-channel.com/){:target="_blank"} _(June 2014 - June 2016)_ <br>
-Enterprise Broadcasting solutions
+_Enterprise Broadcasting solutions_
   - Building AWS cloud based DynamoDB data access layer and "AspNet Identity" Integration with DynamoDB.
   - Single page checkout, payment gateway Integration.
   - Building Contest pages using AngularJS.
@@ -117,7 +120,7 @@ Enterprise Broadcasting solutions
   - Using Git for project branching, tracking and source control.
 
 **Senior Web Developer | IT Consultant** @ [Ahearn & Soper Inc.](https://www.ahearn.com/){:target="_blank"} _(Aug 2013 - Mar 2014)_ <br>
-Labeling, Manufacturing and Warehouse Management solutions
+_Labeling, Manufacturing and Warehouse Management solutions_
   - Enhancing and optimizing Aspdotnetstorefront (ASP.NET, C#, XSLT, SQL Server) based E-Commerce web store. 
   - Adding/Modifying Product Discount Module as per client requirements. 
   - Adding Tier based Pricing Model. 
@@ -130,6 +133,7 @@ Labeling, Manufacturing and Warehouse Management solutions
   - Custom Purchase Order implementation.
 
 **Web Developer** @ [Factors Group of Companies](https://naturalfactors.com/){:target="_blank"} _(Mar 2011 - Aug 2013)_ <br>
+_Nutritional supplements, and herbals manufacturer_
   - Building internal and external company web applications using ASP.NET with C#, MVC. 
   - Coding and Debugging using latest .NET tools and Unit testing using nUnit and VSTS. 
   - Frontend web development using HTML5, CSS3, jQuery and responsive techniques. 
@@ -145,6 +149,7 @@ Labeling, Manufacturing and Warehouse Management solutions
   - GetResponse, MailChimp Email Marketing integration.
 
 **Web Developer | IT Consultant** @ TheNewGentlemensClub _(Nov 2010 - Feb 2011)_ <br>
+_IT Consulting Firm_
   - Customized Daily Deals Website using PHP clone script. 
   - Built Newsletter tracking API using image based tracking pixels. 
   - MailChimp API Integration for sending mass emails to daily deals customers. 
@@ -153,6 +158,7 @@ Labeling, Manufacturing and Warehouse Management solutions
   - Code Debugging and testing using xDebug and WebGrind.
 
 **Senior Web Developer** @ River Styx Internet _(Sep 2010 - Nov 2010)_ <br>
+_Online E-commerce platform_
   - Building a strong Web based Admin CMS system to manage multiple web sites including life cycle of Products, Categories, Orders, Price Points, Bank Cascades. 
   - Testing using xDebug, APC caching.
   - Building product REST APIs. 
@@ -160,6 +166,7 @@ Labeling, Manufacturing and Warehouse Management solutions
   - Implemented full featured Access Level Security for multiple user logins with different roles.
 
 **Web Developer** @ My Yoga Online | Fresh Eye Productions _(Nov 2009 - Sep 2010)_ <br>
+_Health and Wellness Platform_
   - Building high traffic yoga web site using PHP and MySQL. 
   - Building article based CMS system. 
   - Working on payment modules of the CMS. 
@@ -167,6 +174,7 @@ Labeling, Manufacturing and Warehouse Management solutions
   - Implementing custom video players using secure content from CDN Networks.
 
 **Web Developer** @ Elevated Ventures Inc. _(May 2010 - July 2010)_ <br>
+_IT Consulting Firm_
   - Built Link Tracking and URL Shortening service for internet marketers. 
   - Optimizing existing queries by defining Indexes and Joins. 
   - Building URL Shortening tools. 
@@ -174,17 +182,20 @@ Labeling, Manufacturing and Warehouse Management solutions
   - Making use of Google Safe API to cross check URL safety.
 
 **Web Developer** @ Cnawlece Inc. _(Aug 2009 - Nov 2009)_ <br>
+_IT Consulting Firm_
   - Building Data Diagrams using FreeMap mapping software 
   - Migrating MS Access data to the binary modules of Cnawlece framework. 
   - Building nested queries using MS Access validations and modules.
 
 **Web Developer** @ Ajones Co. _(Dec 2008 - Aug 2009)_ <br>
+_IT Consulting Firm_
   - Implemented web based CMS using CodeIgniter MVC framework. 
   - Built different modules including task management, captcha control and embedding PHP calendar for CodeIgniter framework. 
   - Built .NET based touch-screen app using WPF. 
   - Worked on Task Management modules and Advertiser publisher management.
 
 **Web Developer** @ Omegabyte Corp. _(Dec 2007 - Aug 2009)_ <br>
+_IT Consulting Firm_
   - Microsoft Reporting Services using ReportViewer control.
   - Developed .NET Data Import Tool to automatically download and import IRS Gov. Charity data into local SQL Server. Implemented Search engine with search history and user log management and security
   - Using ColdFusion based CMS named Fusebox.
@@ -193,6 +204,7 @@ Labeling, Manufacturing and Warehouse Management solutions
   - XML Web services using .NET and WSDL.
 
 **Senior Software Engineer** @ [Impinge Solutions](https://www.impingesolutions.com/){:target="_blank"} _(May 2006 - Dec 2007)_ <br>
+_IT Consulting Firm_
   - Working on ASP.NET, C#, VB.NET and .NET based ASMX Web Services (WSDL).
   - Consuming Authorize.NET payment gateway web service. 
   - Experience working in .NET web services implementation, vbulletin and osCommerce modules. 
@@ -201,6 +213,7 @@ Labeling, Manufacturing and Warehouse Management solutions
   - Working on vBulletin templates.
 
 **Faculty cum Group Lead** @ [NIIT](https://www.niit.com/){:target="_blank"} _(May 2005 - Apr 2006)_ <br>
+_Leading IT Education provider_
   - Imparted training and education to Computer Engineering students and faculty members for latest skills in programming and technology. 
   - Experience teaching all major programming languages and major databases e.g. C, C++, Core Java, MS SQL, MySQL, Oracle, Sybase, MFC, Win32 programming.
   
@@ -222,5 +235,5 @@ Labeling, Manufacturing and Warehouse Management solutions
 **Bachelor of Science** in Mathematics, Physics and Chemistry<br>
 [Punjabi University](http://www.punjabiuniversity.ac.in/){:target="_blank"} - Patiala, India _(1998 - 2001)_
 
-**Advanced Certification in Programming and Networks** focused on Web/Windows Programming, Databases, Network<br>
+**Advanced Certification in Programming and Networks** focused on Web/Windows Programming, Databases, Networking<br>
 [NIIT](https://www.niit.com/){:target="_blank"} - Pune, India _(1998 - 2000)_
