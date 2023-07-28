@@ -3,7 +3,7 @@
 _IT Consultant, Web Developer, Solutions Architect_ <br>
 [https://www.shawinder.com](https://www.shawinder.com) <br>
 
-[![Email](social/mail.png)](mailto:shawinder@.com) &nbsp; &nbsp;[![LinkedIn](social/linkedin.png)](https://www.linkedin.com/in/shawindersekhon/){:target="_blank"} &nbsp; &nbsp;[![GitHub](social/github.png)](https://github.com/shawinder/){:target="_blank"} &nbsp; &nbsp;[![Twitter](social/twitter.png)](https://twitter.com/intent/follow?screen_name=shawindersekhon){:target="_blank"} &nbsp; &nbsp;[![StackOverflow](social/stack-overflow.png)](https://stackoverflow.com/users/823800/shawinder-sekhon){:target="_blank"}
+[![Email](social/mail.png)](mailto:shawinder@msn.com) &nbsp; &nbsp;[![LinkedIn](social/linkedin.png)](https://www.linkedin.com/in/shawindersekhon/){:target="_blank"} &nbsp; &nbsp;[![GitHub](social/github.png)](https://github.com/shawinder/){:target="_blank"} &nbsp; &nbsp;[![Twitter](social/twitter.png)](https://twitter.com/intent/follow?screen_name=shawindersekhon){:target="_blank"} &nbsp; &nbsp;[![StackOverflow](social/stack-overflow.png)](https://stackoverflow.com/users/823800/shawinder-sekhon){:target="_blank"}
 
 ## 📌 About
 
