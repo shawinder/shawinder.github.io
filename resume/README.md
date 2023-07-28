@@ -13,7 +13,9 @@ Specialties: ReactJS, Python, Django, .NET Core, Xamarin, Angular JS, ASP.NET, C
 
 ## 👨🏻‍💻 Experience
 
-**Solutions Architect** @ [Lone Wolf Technologies](https://www.lwolf.com/){:target="_blank"} _(Mar 2022 - Present)_ <br>
+**Lead Software Engineer** @ [Lone Wolf Technologies](https://www.lwolf.com/){:target="_blank"} _(Mar 2023 - Present)_ <br>
+|<br>
+**Solutions Architect** @ [Lone Wolf Technologies](https://www.lwolf.com/){:target="_blank"} _(Mar 2022 - Mar 2023)_ <br>
 |<br>
 **Sr. Software Engineer** @ [Lone Wolf Technologies](https://www.lwolf.com/){:target="_blank"} _(June 2021 - Mar 2022)_ <br>
 _Marketing, CRM, Transactions - Together At Last_ <br>
