@@ -22,14 +22,22 @@ _Marketing, CRM, Transactions - Together At Last_ <br>
  - Leading/Managing internal development team working on the core business solutions.
  - Setting up build/deploy pipelines using Azure Devops for ReactJS/.NET Core
  - Setting up Azure kubernetes dev/stg environment using Helm charts.
- - Architect and build a message bus consumer service using Azure Cloud and Kubernetes
+ - Architect and build a message bus consumer service using Azure Cloud and Kubernetes.
+ - Implementing commit and code standards using Husky and lint-staged using ESLint rules.
+ - Setting up React Testing Library  boilerplate for an existing React Frontend using custom configuration.
+ - Integrating frontend/backend into Azure DevOps build pipeline.
+ - Implementing Redux Toolkit scaffolding with the existing login system.
+ - Planning/implementing a Git workflow for minimal code conflicts for a large team of contributors.
  - Architect and automate DB migration tool using Azure storage, Azure functions and Kubernetes containers.
  - Fixing penetration testing issues reported by Qualys WAS Scan.
+ - Implementing Universal configuration structure for various projects using Azure App Config.
+ - Investigating deployed application errors using Azure Insights various events e.g Logs, Exceptions, Traces.
  - Working on complex frontend UI using ReactJS and using an internal UI/UX component library.
  - Using Azure DevOps for build/deployment of ReactJS and .NET Core base projects.
  - Migrating existing modules/libraries from .NET to .NET Core 2.0, to be consumed by both .NET and .NET core based projects.
  - Building a scaffolding for a React + Svelte project to be utilized by multiple teams contributing to the same codebase.
  - Helping various teams to meet deadlines and get projects done on time and under budget.
+ - Adding Docker support for the Frontend project to make it compatible with Azure pipelines build solutions.
 
 **Freelance | IT Developer | Consultant** @ Multiple Companies _(Aug 2018 - Present)_ <br>
 _Helping businesses thrive by providing End-to-End solutions_
