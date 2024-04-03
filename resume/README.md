@@ -41,6 +41,7 @@ _Marketing, CRM, Transactions - Together At Last_ <br>
 
 **Freelance | IT Developer | Consultant** @ Multiple Companies _(Aug 2018 - Present)_ <br>
 _Helping businesses thrive by providing End-to-End solutions_
+  - Setting up Oracle Cloud based Node API's and Nginx reverse-proxy using Terraform as an IAC tool.
   - AWS lambda based ordering system with Angular front-end and .NET Core back-end API.
   - Automated S3 backups for both Windows and Linux Databases.
   - Moneris/Converge API Integration for manual/automatic credit card charges and customer profiles.
