@@ -20,8 +20,12 @@ Specialties: ReactJS, Python, Django, .NET Core, Xamarin, Angular JS, ASP.NET, C
 **Sr. Software Engineer** @ [Lone Wolf Technologies](https://www.lwolf.com/){:target="_blank"} _(June 2021 - Mar 2022)_ <br>
 _Marketing, CRM, Transactions - Together At Last_ <br>
  - Leading/Managing internal development team working on the core business solutions.
+ - Investigating Edge cases and bugs and coming up with effective solutions.
+ - Improving PR workflow to minimize code conflicts and bad merges.
+ - Leading multiple projects/teams to meet deadlines and budget constraints.
  - Setting up build/deploy pipelines using Azure Devops for ReactJS/.NET Core
- - Setting up Azure kubernetes dev/stg environment using Helm charts.
+ - Setting up Azure DevOps build pipeline and kubernetes/k8s using Helm charts.
+ - Architect multiple projects and configuration structure using custom libraries and Azure App Config.
  - Architect and build a message bus consumer service using Azure Cloud and Kubernetes.
  - Implementing commit and code standards using Husky and lint-staged using ESLint rules.
  - Setting up React Testing Library  boilerplate for an existing React Frontend using custom configuration.
@@ -36,7 +40,6 @@ _Marketing, CRM, Transactions - Together At Last_ <br>
  - Using Azure DevOps for build/deployment of ReactJS and .NET Core base projects.
  - Migrating existing modules/libraries from .NET to .NET Core 2.0, to be consumed by both .NET and .NET core based projects.
  - Building a scaffolding for a React + Svelte project to be utilized by multiple teams contributing to the same codebase.
- - Helping various teams to meet deadlines and get projects done on time and under budget.
  - Adding Docker support for the Frontend project to make it compatible with Azure pipelines build solutions.
 
 **Freelance | IT Developer | Consultant** @ Multiple Companies _(Aug 2018 - Present)_ <br>
