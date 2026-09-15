@@ -9,7 +9,7 @@ _IT Consultant, Web Developer, Solutions Architect_ <br>
 
 Highly skilled and experienced IT professional having 15+ years of experience in multiple programming languages with strong educational background. Superior track record of delivering simultaneous projects on time and under budget coupled with team approach and excellent communication skills. <br>
 
-Specialties: ReactJS, Python, Django, .NET Core, Xamarin, Angular JS, ASP.NET, C#, MVC5, WebAPI2, ASP.NET Identity, OWIN Middleware, Bootstrap 3, Entity Framework 6, oAuth Login Integration (Facebook, Google, Twitter), AspDotNetStorefront, XSLT, jQuery Mobile, Composite C1, MS SQL, Photoshop, PHP, Wordpress, SQL, MySQL, HTML, CSS, REST, MVC
+Specialties: Claude Code, Docker Sandbox, Gemini, Codex, Custom MCP tools, TWG CLI, ReactJS, Python, Django, .NET Core, Xamarin, Angular JS, ASP.NET, C#, MVC5, WebAPI2, ASP.NET Identity, OWIN Middleware, Bootstrap 3, Entity Framework 6, oAuth Login Integration (Facebook, Google, Twitter), AspDotNetStorefront, XSLT, jQuery Mobile, Composite C1, MS SQL, Photoshop, PHP, Wordpress, SQL, MySQL, HTML, CSS, REST, MVC
 
 ## 👨🏻‍💻 Experience
 
@@ -19,9 +19,14 @@ Specialties: ReactJS, Python, Django, .NET Core, Xamarin, Angular JS, ASP.NET, C
 |<br>
 **Sr. Software Engineer** @ [Lone Wolf Technologies](https://www.lwolf.com/){:target="_blank"} _(June 2021 - Mar 2022)_ <br>
 _Marketing, CRM, Transactions - Together At Last_ <br>
+ - Implemented Automated PR reviews using bitbucket pipelines and Claude CLI.
+ - Using AI to decompose monolithic code into smaller chunks to streamline/ease the dev process.
+ - Using Jira TWG ClI for Jira tickets and code workflows.
+ - Built Claude md frameworks to minimize token usage and preserve change history for effective context usage.
  - Leading/Managing internal development team working on the core business solutions.
  - Investigating Edge cases and bugs and coming up with effective solutions.
  - Improving PR workflow to minimize code conflicts and bad merges.
+ - Implemented Global error tracking for full request/response lifecycle tracing.
  - Leading multiple projects/teams to meet deadlines and budget constraints.
  - Setting up build/deploy pipelines using Azure Devops for ReactJS/.NET Core
  - Setting up Azure DevOps build pipeline and kubernetes/k8s using Helm charts.
@@ -44,6 +49,8 @@ _Marketing, CRM, Transactions - Together At Last_ <br>
 
 **Freelance | IT Developer | Consultant** @ Multiple Companies _(Aug 2018 - Present)_ <br>
 _Helping businesses thrive by providing End-to-End solutions_
+  - Building AI based chat system using RAG and vector databases
+  - Converted existing financial API into workable MCP tools to support AI based interactions.
   - Setting up Oracle Cloud based Node API's and Nginx reverse-proxy using Terraform as an IAC tool.
   - AWS lambda based ordering system with Angular front-end and .NET Core back-end API.
   - Automated S3 backups for both Windows and Linux Databases.
